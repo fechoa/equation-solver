@@ -29,7 +29,10 @@ A simple equation solver, with my own design, made with adaptive layout in Javas
 3. Follow the service instructions and enjoy
 
 
-## Show
+## Desktop
 
   <img src="./screen/desktop.gif" width="800" alt="desktop">
+
+## Mobile
+
   <img src="./screen/mobile.gif" width="300" alt="mobile">
