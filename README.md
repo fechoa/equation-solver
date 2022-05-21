@@ -32,4 +32,4 @@ A simple equation solver, with my own design, made with adaptive layout in Javas
 ## Show
 
   <img src="./screen/desktop.gif" width="800" alt="desktop">
-  <img src="./screen/mobile.gif" width="400" alt="mobile">
+  <img src="./screen/mobile.gif" width="300" alt="mobile">
